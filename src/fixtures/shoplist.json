@@ -1,0 +1,59 @@
+{
+  "shoplist": [
+    {
+      "id": 0,
+      "name": "山田太郎",
+      "text": {
+        "title": "焼き肉のお店だよ！",
+        "description": "この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。"
+      },
+      "number": "09011112222",
+      "address": "兵庫県西宮市一ヶ谷町1-23-215",
+      "site": "https://www.google.com",
+      "items": [
+        {
+          "id": 0,
+          "name": "yasuimeat",
+          "price": 200,
+          "description": "この文章はダミーです"
+        },
+        {
+          "id": 1,
+          "name": "takaipork",
+          "price": 600,
+          "description": "この文章はダミーです"
+        },
+        {
+          "id": 2,
+          "name": "yasu-imeat",
+          "price": 200,
+          "description": "この文章はダミーです"
+        },
+        {
+          "id": 3,
+          "name": "yaimeat",
+          "price": 200,
+          "description": "この文章はダミーです"
+        },
+        {
+          "id": 4,
+          "name": "yasssimeat",
+          "price": 200,
+          "description": "この文章はダミーです"
+        },
+        {
+          "id": 5,
+          "name": "yassumeat",
+          "price": 200,
+          "description": "この文章はダミーです"
+        },
+        {
+          "id": 6,
+          "name": "yasusumeat",
+          "price": 200,
+          "description": "この文章はダミーです"
+        }
+      ]
+    }
+  ]
+}

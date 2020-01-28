@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.l-header {
+  background: white;
+  border-bottom: 1px solid silver;
+  z-index: 1;
+  &-inner {
+    padding: 0 15px;
+  }
+}
