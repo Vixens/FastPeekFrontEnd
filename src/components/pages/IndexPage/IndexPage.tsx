@@ -13,6 +13,7 @@ export default function IndexPage() {
   const onClickPost = () => {
     axios.post('http://localhost:8080/1/1/menu/new', {
       Shopid: '1',
+      Menuid: '1',
       Foodname:'Beer',
       Foodsize:'M',
       Foodsummary:'仕事終わりに',
